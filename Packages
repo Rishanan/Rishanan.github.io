@@ -3,7 +3,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Rishanan <zilliasrepo@gmail.com>
 Filename: debs//HostAdBlocker.deb
-Size: 20480 bytes
+Size: 20480bytes
 Section: Tweaks
 Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com.
 MD5sum: 0c8c355d95c0f3dcbed085d2d6562790
