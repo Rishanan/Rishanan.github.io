@@ -6,7 +6,7 @@ Filename: debs//HostAdBlocker.deb
 Size: 19736bytes
 Section: Tweaks
 Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com.
-MD5sum: 0c8c355d95c0f3dcbed085d2d6562790
+MD5sum: b744ec98808d0dd4fce09b59c28542d5
 Author: Rishanan <zilliasrepo@gmail.com>
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 Name: Host AdBlocker
