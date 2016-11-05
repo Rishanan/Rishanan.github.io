@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Restoring modified files"
+cp -a /etc/AdBlocker/default /etc/hosts
+echo "Restore Complete"
+echo "Finishing some background process."
+rm -rf /etc/AdBlocker
+echo "Completed! Sad to see you leave."
+exit 0

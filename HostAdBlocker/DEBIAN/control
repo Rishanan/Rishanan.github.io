@@ -1,0 +1,10 @@
+Package: com.rishanan.hostadblocker
+Name: Host AdBlocker
+Version: 1.1
+Architecture: iphoneos-arm
+Conflicts: com.reddestdream.minimalhostsblocker
+Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+
