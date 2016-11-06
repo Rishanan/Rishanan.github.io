@@ -16,9 +16,9 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Rishanan <zilliasrepo@gmail.com>
 Filename: debs//HostAdBlocker_beta.deb
-Size: 19854bytes
+Size: 19862bytes
 Section: Tweaks
-MD5sum: 5ce99aa8d781751e84f19c510f79b95c
+MD5sum: e4f897a6794ec85c566d817db2eb42cf
 Description: This is the beta of Host AdBlocker. May be filled with bugs. Use with precaustion.
 Author: Rishanan <zilliasrepo@gmail.com>
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
