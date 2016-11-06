@@ -11,7 +11,7 @@ Author: Rishanan <zilliasrepo@gmail.com>
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 Name: Host AdBlocker
 
-Package: com.rishanan.hostadblocker_beta
+Package: com.rishanan.hostadblockerBETA
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Rishanan <zilliasrepo@gmail.com>
