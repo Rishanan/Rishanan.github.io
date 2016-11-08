@@ -22,7 +22,7 @@ Description: Block them annoying ads system wide including apps and browsers! Em
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
-Filename: debs//HostAdBlocker_beta.deb
+Filename: debs//HostAdBlockerbeta.deb
 Size: 20108bytes
 MD5sum: bdc2b0a0f01f1cdfb437109430e03254
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblockerBETA/index.html
