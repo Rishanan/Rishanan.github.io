@@ -15,7 +15,7 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.htm
 
 Package: com.rishanan.hostadblockerBETA 
 Name: Host AdBlocker BETA
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm
 Conflicts: com.reddestdream.minimalhostsblocker,com.rishanan.hostadblocker
 Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com
@@ -23,7 +23,7 @@ Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
 Filename: debs//HostAdBlockerbeta.deb
-Size: 20108bytes
-MD5sum: bdc2b0a0f01f1cdfb437109430e03254
+Size: 20432bytes
+MD5sum: 3381867a881f78e7af261923bce295ce
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblockerBETA/index.html
 
