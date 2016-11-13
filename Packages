@@ -32,6 +32,7 @@ Package: com.rishanan.snapvac
 Name: Snapchat VAC bypass
 Version: 1.1
 Architecture: iphoneos-arm
+Conflicts: org.thebigboss.slices
 Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
 Maintainer: Rishanan <zilliasrepo@gmail.com>
 Author: Rishanan <zilliasrepo@gmail.com>
