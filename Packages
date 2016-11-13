@@ -30,7 +30,7 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblockerBETA/index
 
 Package: com.rishanan.snapvac
 Name: Snapchat VAC bypass
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Conflicts: org.thebigboss.slices
 Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
@@ -38,8 +38,8 @@ Maintainer: Rishanan <zilliasrepo@gmail.com>
 Author: Rishanan <zilliasrepo@gmail.com>
 Section: Tweaks
 Filename: debs//vac.deb
-Size: 2220bytes
-MD5sum: d1792204113a2fa8ddbd6968640d48cb
+Size: 2254bytes
+MD5sum: cf625f7db9e4469d75453b706f5ac798
 Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
 
 
