@@ -1,6 +1,6 @@
 Package: com.rishanan.hostadblocker
 Name: Host AdBlocker 
-Version: 1.4
+Version: 1.4.1
 Architecture: iphoneos-arm
 Conflicts: com.reddestdream.minimalhostsblocker,com.rishanan.hostadblockerBETA 
 Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com
@@ -8,13 +8,13 @@ Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
 Filename: debs//HostAdBlockerr.deb
-Size: 20454bytes
-MD5sum: 44cbcfe584886dacfa8a707e04336bb0
+Size: 20464bytes
+MD5sum: 1e2972903dc4e57c922ea5B06317fda4
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
 Package: com.rishanan.snapvac
 Name: Snapchat VAC bypass
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Conflicts: org.thebigboss.slices
 Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
@@ -22,8 +22,8 @@ Maintainer: Rishanan <zilliasrepo@gmail.com>
 Author: Rishanan <zilliasrepo@gmail.com>
 Section: Tweaks
 Filename: debs//vac.deb
-Size: 2284bytes
-MD5sum: 673898bb8523231a2ebbe0d078167ab0
+Size: 2288bytes
+MD5sum: 0808194ac67f01af733645350a13d7e2
 Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
 
 
