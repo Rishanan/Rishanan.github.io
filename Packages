@@ -16,14 +16,13 @@ Package: com.rishanan.snapvac
 Name: Snapchat VAC bypass
 Version: 1.3
 Architecture: iphoneos-arm
-Conflicts: 
 Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
 Maintainer: Rishanan <zilliasrepo@gmail.com>
 Author: Rishanan <zilliasrepo@gmail.com>
 Section: Tweaks
 Filename: debs//vac.deb
-Size: 2410bytes
-MD5sum: fb65ad331ada8ff784cadeC2fc4f8005
+Size: 2408bytes
+MD5sum: 1deb7087ab3d7bfc19Bc0d56804d3720
 Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
 
 
