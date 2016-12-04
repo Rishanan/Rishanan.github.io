@@ -51,16 +51,5 @@ Size: 6831174bytes
 MD5sum: 65c2146a4ae9f63881709ac583f54aa2
 Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
 
-Package: com.rishanan.ssa
-Name: Stash System Apps
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Put system apps where they're supposed to be. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <rishanan1996@gmail.com>
-Author: Rishanan <rishanan1996@gmail.com>
-Section: Tweaks
-Filename: debs//ssa.deb
-Size: 854bytes
-MD5sum: 6de7baf0eaa9247d71f827b69cbea389
-Depiction: https://rishanan.github.io/depic/com.rishanan.ssa/index.html
+
 
