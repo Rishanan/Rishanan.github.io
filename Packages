@@ -28,5 +28,19 @@ MD5sum: 15a7e08deaa309603e2f55433ef9871b
 Depiction: https://rishanan.github.io/depic/com.rishanan.nlm/index.html
 
 
+Package: com.rishanan.OTAK
+Name: OTA Killer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Kills update. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//OTAK.deb
+Size: 810bytes
+MD5sum: ec68e7922a09cdbb09233642c26fa67f
+Depiction: https://rishanan.github.io/depic/com.rishanan.otak/index.html
+
+
 
 
