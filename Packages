@@ -12,44 +12,19 @@ Size: 20464bytes
 MD5sum: 1e2972903dc4e57c922ea5b06317fda4
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
-Package: com.rishanan.snapvac
-Name: SAC bypass
-Version: 1.3.1
+Package: com.rishanan.hostadblocker
+Name: Host AdBlocker 
+Version: 1.5
 Architecture: iphoneos-arm
-Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <zilliasrepo@gmail.com>
-Author: Rishanan <zilliasrepo@gmail.com>
+Conflicts: com.reddestdream.minimalhostsblocker,com.rishanan.hostadblockerBETA 
+Description: Block them annoying ads system wide including apps and browsers! Email me if an domain has to be patched. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
-Filename: debs//vac.deb
-Size: 2446bytes
-MD5sum: 64a68fa7f5b02a53ec615a9d5d7f51da
-Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
-
-Package: com.rishanan.snapvac
-Name: SAC bypass
-Version: 1.3.2
-Architecture: iphoneos-arm
-Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <zilliasrepo@gmail.com>
-Author: Rishanan <zilliasrepo@gmail.com>
-Section: Tweaks
-Filename: debs//vac1.3.2.deb
-Size: 6831014bytes
-MD5sum: a5e90bb6699988b5662f798fcf0b2cb8
-Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
-
-Package: com.rishanan.snapvac
-Name: SAC bypass
-Version: 1.4
-Architecture: iphoneos-arm
-Description: Bypass snapchat anti cheat. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <zilliasrepo@gmail.com>
-Author: Rishanan <zilliasrepo@gmail.com>
-Section: Tweaks
-Filename: debs//vac1.4.deb
-Size: 6831174bytes
-MD5sum: 65c2146a4ae9f63881709ac583f54aa2
-Depiction: https://rishanan.github.io/depic/com.rishanan.snapvac/index.html
+Filename: debs//HostAdBlocker.deb
+Size: 20470bytes
+MD5sum: d58a88fe062aba6936f57fe283ffabd5
+Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
 Package: com.rishanan.OTAK
 Name: OTA Killer
