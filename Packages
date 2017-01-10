@@ -27,6 +27,19 @@ Size: 2044bytes
 MD5sum: 15a7e08deaa309603e2f55433ef9871b
 Depiction: https://rishanan.github.io/depic/com.rishanan.nlm/index.html
 
+Package: com.rishanan.NLM
+Name: NeverLowerMusic
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//NeverLowerMusic11.deb
+Size: 2046bytes
+MD5sum: 4e8c2a2C9b71ac60ac096a11bea16b04
+Depiction: https://rishanan.github.io/depic/com.rishanan.nlm/index.html
+
 
 Package: com.rishanan.OTAK
 Name: OTA Killer
@@ -40,6 +53,8 @@ Filename: debs//OTAK.deb
 Size: 810bytes
 MD5sum: ec68e7922a09cdbb09233642c26fa67f
 Depiction: https://rishanan.github.io/depic/com.rishanan.otak/index.html
+
+
 
 
 
