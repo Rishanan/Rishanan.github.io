@@ -38,18 +38,18 @@ Size: 810bytes
 MD5sum: ec68e7922a09cdbb09233642c26fa67f
 Depiction: https://rishanan.github.io/depic/com.rishanan.otak/index.html
 
-Package: com.rishanan.nae
-Name: NoAppExpire
+Package: com.rishanan.hp
+Name: HideProfiles
 Version: 1.0
 Architecture: iphoneos-arm
-Description: No expiry for sideloaded apps+unlimited sideload apps. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Description: Hide profiles, fix "max app limit" issue on cydia impactor. Buy me a beer, PayPal: zilliasrepo@gmail.com
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
-Filename: debs//NoAppExpire.deb
-Size: 752bytes
-MD5sum: bfb665448c6156ed30e6905547ced64f
-Depiction: https://rishanan.github.io/depic/com.rishanan.nae/index.html
+Filename: debs//HideProfiles.deb
+Size: 776bytes
+MD5sum: ff994972e99a5a23c0e6fa8e3db10c13
+Depiction: https://rishanan.github.io/depic/com.rishanan.hp/index.html
 
 
 
