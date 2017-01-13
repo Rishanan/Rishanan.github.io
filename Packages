@@ -54,7 +54,7 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.hp/index.html
 Package: com.rishanan.as
 Name: ActiveSubstrate
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Description: Alert user on boot/respring if substrate is activated successfully.
 Maintainer: Rishanan
