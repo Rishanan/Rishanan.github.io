@@ -51,6 +51,19 @@ Size: 776bytes
 MD5sum: ff994972e99a5a23c0e6fa8e3db10c13
 Depiction: https://rishanan.github.io/depic/com.rishanan.hp/index.html
 
+Package: com.rishanan.as
+Name: ActiveSubstrate
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alert user on boot/respring if substrate is activated successfully.
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Filename: debs//com.rishanan.as_1.0-1+debug_iphoneos-arm.deb
+Size: 5386bytes
+MD5sum: b3c01d436ab4c6a27ff7ec629ce09fee
+Depiction: https://rishanan.github.io/depic/com.rishanan.as/index.html
 
 
 
