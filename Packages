@@ -81,5 +81,19 @@ Installed-Size: 117
 MD5sum: 0df7564babc8f374de4e161a68e764e0
 Depiction: https://rishanan.github.io/depic/com.rishanan.bke/index.html
 
+Package: com.rishanan.ndb
+Name: NoDockBackground
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove Dock Background!
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Filename: debs//com.rishanan.ndb_1.0_iphoneos-arm.deb
+Size: 4136bytes
+Installed-Size: 117
+MD5sum: b129160c346cbd7da093d1558621150e
+Depiction: https://rishanan.github.io/depic/com.rishanan.ndb/index.html
 
 
