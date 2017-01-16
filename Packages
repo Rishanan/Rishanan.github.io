@@ -96,4 +96,18 @@ Installed-Size: 117
 MD5sum: b129160c346cbd7da093d1558621150e
 Depiction: https://rishanan.github.io/depic/com.rishanan.ndb/index.html
 
+Package: com.rishanan.su
+Name: SafariUnleashed
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Unlimited tabs, never kill tabs due to low memory and faster loading. 
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Filename: debs//com.rishanan.su_1.0_iphoneos-arm.deb
+Size: 6086bytes
+Installed-Size: 117
+MD5sum: b81e332db0dc9B54d8405844891fec35
+Depiction: https://rishanan.github.io/depic/com.rishanan.su/index.html
 
