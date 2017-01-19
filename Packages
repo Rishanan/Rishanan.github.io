@@ -99,15 +99,15 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.ndb/index.html
 Package: com.rishanan.su
 Name: SafariUnleashed
 Depends: mobilesubstrate, preferenceloader
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Description: Safari's ultimate tweak. 
 Maintainer: Rishanan
 Author: Rishanan
 Section: Tweaks
-Filename: debs//com.rishanan.su_1.1_iphoneos-arm.deb
-Size: 15096bytes
+Filename: debs//com.rishanan.su_1.2_iphoneos-arm.deb
+Size: 16624bytes
 Installed-Size: 246
-MD5sum: a138b240ef0bf2dfd53deaab391108ce
+MD5sum: c02ffb821007f788aeabc6dd1b6bde6c
 Depiction: https://rishanan.github.io/depic/com.rishanan.su/index.html
 
