@@ -12,6 +12,19 @@ Size: 20470bytes
 MD5sum: d58a88fe062aba6936f57fe283ffabd5
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
+Package: com.rishanan.posbb
+Name: POSBbreak(Singapore only)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bypass POSB bank jailbreak detection. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//POSBbreak.deb
+Size: 1010bytes
+MD5sum: 097edc702e7ce84aa8de0f3bc8d41119
+Depiction: https://rishanan.github.io/depic/com.rishanan.pb/index.html
+
 Package: com.rishanan.NLM
 Name: NeverLowerMusic
 Version: 1.1
