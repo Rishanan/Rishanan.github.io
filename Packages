@@ -14,15 +14,15 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.htm
 
 Package: com.rishanan.posbb
 Name: POSBbreak(Singapore only)
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Bypass POSB bank jailbreak detection. Buy me a beer, PayPal: zilliasrepo@gmail.com
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
 Filename: debs//POSBbreak.deb
-Size: 1010bytes
-MD5sum: 097edc702e7ce84aa8de0f3bc8d41119
+Size: 1018bytes
+MD5sum: 2d881076b52be6358999f380aeae0e0b
 Depiction: https://rishanan.github.io/depic/com.rishanan.pb/index.html
 
 Package: com.rishanan.NLM
