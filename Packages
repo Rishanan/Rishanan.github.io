@@ -124,3 +124,18 @@ Installed-Size: 246
 MD5sum: 88e866a168b42d62156cd2e433ca54e3
 Depiction: https://rishanan.github.io/depic/com.rishanan.su/index.html
 
+Package: com.rishanan.lpnr
+Name: LowPowerNoRaise
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable raise to wake when lowpower mode enabled.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.lpnr_1.0_iphoneos-arm.deb
+Size: 4630bytes
+Installed-Size: 117
+MD5sum: 997c99bd741d97934dc9e292ea201725
+Depiction: https://rishanan.github.io/depic/com.rishanan.lpnr/index.html
+
