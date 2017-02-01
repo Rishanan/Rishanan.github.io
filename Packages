@@ -153,3 +153,18 @@ Size: 4958bytes
 Installed-Size: 117
 MD5sum: 6c18ba089f5c188ed8ba11fa35d444bd
 Depiction: https://rishanan.github.io/depic/com.rishanan.touchpass/index.html
+
+Package: com.rishanan.asc
+Name: AlwaysShowChanges10
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable "Show All Changes" for all packages automatically.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.asc_1.0_iphoneos-arm.deb
+Size: 4114bytes
+Installed-Size: 117
+MD5sum: 51be53198db5242494b0623be2baef15
+Depiction: https://rishanan.github.io/depic/com.rishanan.asc/index.html
