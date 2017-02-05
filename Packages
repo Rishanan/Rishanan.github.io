@@ -12,19 +12,6 @@ Size: 20470bytes
 MD5sum: d58a88fe062aba6936f57fe283ffabd5
 Depiction: https://rishanan.github.io/depic/com.rishanan.hostadblocker/index.html
 
-Package: com.rishanan.posbb
-Name: POSBbreak(Singapore only)
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Bypass POSB bank jailbreak detection. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <rishanan1996@gmail.com>
-Author: Rishanan <rishanan1996@gmail.com>
-Section: Tweaks
-Filename: debs//POSBbreak.deb
-Size: 1018bytes
-MD5sum: 2d881076b52be6358999f380aeae0e0b
-Depiction: https://rishanan.github.io/depic/com.rishanan.pb/index.html
-
 Package: com.rishanan.NLM
 Name: NeverLowerMusic
 Version: 1.1
@@ -168,3 +155,18 @@ Size: 4114bytes
 Installed-Size: 117
 MD5sum: 51be53198db5242494b0623be2baef15
 Depiction: https://rishanan.github.io/depic/com.rishanan.asc/index.html
+
+Package: com.rishanan.noti
+Name: Noti++
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A full featured tweak for a custom notification experience.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.noti_1.0_iphoneos-arm.deb
+Size: 12590bytes
+Installed-Size: 242
+MD5sum: 2d9830fd864620e3f87f2d9d03f78834
+Depiction: https://rishanan.github.io/depic/com.rishanan.noti/index.html
