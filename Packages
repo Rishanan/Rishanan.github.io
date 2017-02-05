@@ -161,7 +161,7 @@ Name: Noti++
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: A full featured tweak for a custom notification experience.
+Description: A full featured tweak for a custom notification experience!
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
