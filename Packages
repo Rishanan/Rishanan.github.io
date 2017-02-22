@@ -201,3 +201,19 @@ Size: 52518bytes
 Installed-Size: 375
 MD5sum: 7d98941db9596b02774e180fd9889721
 Depiction: https://rishanan.github.io/depic/com.rishanan.springplus/index.html
+
+Package: com.rishanan.springplus
+Name: SpringPlus
+Depends: mobilesubstrate
+Conflicts:com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: All round modification for your iDevice.
+Maintainer: Rishanan <rishanan1996@gmail.com>
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Filename: debs//com.rishanan.springplus_1.1-1_iphoneos-arm.deb
+Size: 49860bytes
+Installed-Size: 375
+MD5sum: 5140ba242b72fa0ec2170cecdcd35573
+Depiction: https://rishanan.github.io/depic/com.rishanan.springplus/index.html
