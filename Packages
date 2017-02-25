@@ -66,36 +66,6 @@ Installed-Size: 117
 MD5sum: af60e3532890dd3564d72de5bde2b595
 Depiction: https://rishanan.github.io/depic/com.rishanan.as/index.html
 
-Package: com.rishanan.bke
-Name: BlackKeyboardEverywhere
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Blackkeyboard System wide!
-Maintainer: Rishanan
-Author: Rishanan
-Section: Tweaks
-Filename: debs//com.rishanan.bke_1.0_iphoneos-arm.deb
-Size: 4348bytes
-Installed-Size: 117
-MD5sum: 0df7564babc8f374de4e161a68e764e0
-Depiction: https://rishanan.github.io/depic/com.rishanan.bke/index.html
-
-Package: com.rishanan.ndb
-Name: NoDockBackground
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Remove Dock Background!
-Maintainer: Rishanan
-Author: Rishanan
-Section: Tweaks
-Filename: debs//com.rishanan.ndb_1.0_iphoneos-arm.deb
-Size: 4136bytes
-Installed-Size: 117
-MD5sum: b129160c346cbd7da093d1558621150e
-Depiction: https://rishanan.github.io/depic/com.rishanan.ndb/index.html
-
 Package: com.rishanan.su
 Name: SafariUnleashed
 Depends: mobilesubstrate, preferenceloader
@@ -156,36 +126,6 @@ Installed-Size: 117
 MD5sum: 51be53198db5242494b0623be2baef15
 Depiction: https://rishanan.github.io/depic/com.rishanan.asc/index.html
 
-Package: com.rishanan.noti
-Name: Noti++
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A full featured tweak for a custom notification experience!
-Maintainer: Rishanan <rishanan1996@gmail.com>
-Author: Rishanan <rishanan1996@gmail.com>
-Section: Tweaks
-Filename: debs//com.rishanan.noti_1.0_iphoneos-arm.deb
-Size: 12590bytes
-Installed-Size: 242
-MD5sum: 2d9830fd864620e3f87f2d9d03f78834
-Depiction: https://rishanan.github.io/depic/com.rishanan.noti/index.html
-
-Package: com.rishanan.swP
-Name: Switcher+
-Depends: mobilesubstrate, preferenceloader
-Version: 1.0
-Architecture: iphoneos-arm
-Description: AppSwitcher ultimate tweak(round corners+more).
-Maintainer: Rishanan <rishanan1996@gmail.com>
-Author: Rishanan <rishanan1996@gmail.com>
-Section: Tweaks
-Filename: debs//com.rishanan.swP_1.0_iphoneos-arm.deb
-Size: 10580bytes
-Installed-Size: 242
-MD5sum: 1afe4172da36c5fb8e8f02ee143175fa
-Depiction: https://rishanan.github.io/depic/com.rishanan.swP/index.html
-
 
 Package: com.rishanan.springplus
 Name: SpringPlus
@@ -203,4 +143,18 @@ Installed-Size: 375
 MD5sum: 5140ba242b72fa0ec2170cecdcd35573
 Depiction: https://rishanan.github.io/depic/com.rishanan.springpluss/index.html
 
+Package: com.rish.libspring
+Name: libSpringPlus
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Essential lib for SpringPlus
+Maintainer: Rishanan
+Author: Rishanan
+Section: Development
+Filename: debs//com.rish.libspring_0.0.2_iphoneos-arm.deb
+Size: 5312bytes
+Installed-Size: 117
+MD5sum: 3b6c9143fd716bf0db36f30117a7f4cf
+Depiction: https://rishanan.github.io/depic/com.rishanan.libspringplus/index.html
 
