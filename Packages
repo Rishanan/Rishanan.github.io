@@ -140,7 +140,7 @@ Section: Tweaks
 Filename: debs//com.rishanan.springplus_1.3-2_iphoneos-arm.deb
 Size: 47140bytes
 Installed-Size: 375
-MD5sum: ee47d1b54517921eb5e2Cada238c9786
+MD5sum: ee47d1b54517921eb5e2cada238c9786
 Depiction: https://rishanan.github.io/depic/com.rishanan.springpluss/index.html
 
 Package: com.rish.libspring
