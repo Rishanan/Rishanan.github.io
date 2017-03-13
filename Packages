@@ -161,15 +161,15 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.libspringplus/index.htm
 Package: com.rishanan.batteryplus
 Name: BatteryPlus
 Depends: mobilesubstrate
-Version: 1.1
+Version: 1.1-3
 Architecture: iphoneos-arm
 Description: Best battery management for ios 10.
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
-Filename: debs//com.rishanan.batteryplus_1.1_iphoneos-arm.deb
-Size: 8526bytes
+Filename: debs//com.rishanan.batteryplus_1.1-3_iphoneos-arm.deb
+Size: 8482bytes
 Installed-Size: 117
-MD5sum: f86931519839d051e755fa11c26c2770
+MD5sum: f45d6ad9af20a10d276c6efed5ccfb03
 Depiction: https://rishanan.github.io/depic/com.rishanan.batteryplus/index.html
 
