@@ -175,7 +175,7 @@ Depiction: https://rishanan.github.io/depic/com.rishanan.batteryplus/index.html
 
 Package: com.rishanan.springplus11
 Name: SpringPlus11
-Depends: mobilesubstrate, preferenceloader, com.rish.libspring
+Depends: mobilesubstrate, preferenceloader
 Conflicts:com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP, com.rishanan.springplus, com.rishanan.BIOS10
 Version: 1.1.1
 Architecture: iphoneos-arm
