@@ -177,14 +177,14 @@ Package: com.rishanan.springplus11
 Name: SpringPlus11
 Depends: mobilesubstrate, preferenceloader, com.rish.libspring
 Conflicts:com.rishanan.bke,com.rishanan.noti,com.rishanan.ndb,com.rishanan.swP, com.rishanan.springplus, com.rishanan.BIOS10
-Version: 1.0.1
+Version: 1.1.1
 Architecture: iphoneos-arm
-Description: All round modification for your iDevice.
+Description: Internal settings unlocked for ios 11.
 Maintainer: Rishanan <rishanan1996@gmail.com>
 Author: Rishanan <rishanan1996@gmail.com>
 Section: Tweaks
-Filename: debs//com.rishanan.springplus11_1.0.1_iphoneos-arm.deb
-Size: 46502bytes
+Filename: debs//com.rishanan.springplus11_1.1.1_iphoneos-arm.deb
+Size: 46746bytes
 Installed-Size: 350
-MD5sum: e0854251baa74bba1fefcd032f2991a5
+MD5sum: 02cb6d107f2c2d171f2554265fd84617
 Depiction: https://rishanan.github.io/depic/com.rishanan.springpluss11/index.html
